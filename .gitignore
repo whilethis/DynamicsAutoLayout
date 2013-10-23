@@ -2,5 +2,5 @@
 *.pbxuser
 build/
 .DS_Store
-xcuserdata/
+*/xcuserdata/
 *~
